@@ -1,46 +1,87 @@
-Study Group Matching Web App – Project Proposal
-1. Project Objectives
-The goal of this project is to design and develop a web-based platform that facilitates meaningful student connections based on shared academic goals, schedules, interests, and location. The app will:
-•	Match students with similar availability, study habits, and academic interests.
-•	Foster collaboration and academic support through small group study matching.
-•	Promote social engagement and community among students by connecting them with peers nearby or with similar hobbies.
-•	Enhance student well-being and academic performance by reducing isolation and encouraging participation.
-2. Target Users and Their Needs
-Primary Users
-•	University/College students (undergraduate and graduate)
-User Needs
-•	Efficient matching with compatible study partners or groups.
-•	Flexible scheduling based on their own availability.
-•	Study-style alignment (e.g., quiet/independent vs. discussion-focused).
-•	Discovery of nearby peers for both academic and casual interaction.
-•	Safe and inclusive environment for social and academic interaction.
-3. Key Deliverables
-1.	User Onboarding System
-o	Profile creation with academic info, study style preferences, availability calendar, interests, and general location (e.g., campus area or neighborhood).
-2.	Matching Algorithm
-o	Matches users based on weighted similarity metrics (e.g., overlapping schedules, shared classes/interests, location).
-3.	Match Result Dashboard
-o	A list of recommended matches with options to connect, message, or create group study sessions.
-4.	Group Session Planner
-o	In-app scheduling tool to help small groups pick meeting times and locations.
-5.	Optional Features
-o	In-app messaging or group chat
-o	Event board for open study sessions or meetups
-o	Integration with school tools (e.g., campus calendars)
-4. Special Constraints
-•	Data Privacy & Security
-o	Compliance with institutional data protection guidelines and local privacy regulations (e.g., GDPR, PIPEDA, or FERPA in the U.S.).
-o	Student location must be generalized (e.g., residence hall or zip code), not exact, to protect privacy.
-o	Secure storage of personal information with encrypted communication channels.
-•	Accessibility
-o	Must adhere to accessibility standards (e.g., WCAG 2.1) for inclusivity.
-•	Scalability
-o	Should be designed with modular architecture to allow future scaling for more institutions or added features.
-5. Expected Outcome
-By the end of this project, the app should be able to:
-•	Successfully connect students with compatible study partners or groups.
-•	Help users form stronger academic and social bonds with their peers.
-•	Improve student engagement and collaboration both online and in person.
-•	Provide an intuitive and enjoyable user experience tailored to student life.
-Long term, this app has the potential to be integrated into university systems as a supplementary social-academic tool, improving both academic outcomes and campus community-building.
+# 📚 Study Group Matching Web App
+
+A web application designed to help students connect with compatible study partners and small groups based on their **availability**, **study styles**, **interests**, and **location**. The goal is to foster meaningful academic and social connections among students to support learning, collaboration, and community building.
+
+---
+
+## 🚀 Project Objectives
+
+- Match students with similar schedules, academic goals, and learning preferences.
+- Help users form study groups or find casual "hangout buddies" nearby.
+- Support academic success and social well-being by building peer-to-peer connections.
+- Provide a user-friendly and inclusive platform that encourages engagement.
+
+---
+
+## 🎯 Target Users & Their Needs
+
+### 👥 Primary Users
+- University or college students (undergraduate and graduate levels)
+
+### 💡 User Needs
+- Easy onboarding and profile customization
+- Accurate, privacy-conscious match suggestions
+- Tools for planning and organizing group sessions
+- Discovery of peers with similar interests or class schedules
+- Safe and welcoming platform for collaboration and connection
+
+---
+
+## 📦 Key Deliverables
+
+- ✅ **User Onboarding & Profile System**
+  - Collects user data: schedule, interests, study style, location (generalized)
+
+- ✅ **Matching Algorithm**
+  - Calculates compatibility based on schedule overlap, interests, proximity, and more
+
+- ✅ **Match Dashboard**
+  - Shows recommended individuals and groups, with options to connect or message
+
+- ✅ **Group Session Planner**
+  - Helps users find mutual meeting times and locations
+
+- 🔄 **Optional Features**
+  - In-app messaging or group chat
+  - Interest-based group recommendations
+  - Public study events board
+
+---
+
+## ⚠️ Special Constraints
+
+- 🔐 **Data Privacy & Security**
+  - Compliant with institutional and regional regulations (e.g., GDPR, FERPA)
+  - Generalized location sharing (e.g., campus area or zip code)
+  - Encrypted storage and secure communication
+
+- ♿ **Accessibility**
+  - Fully adheres to WCAG 2.1 standards
+
+- 🌱 **Scalability**
+  - Built to support expansion to new campuses and more features
+
+---
+
+## ✅ Expected Outcome
+
+- Students are matched with compatible peers for study and social support
+- Engagement and collaboration improve across campus
+- Platform becomes a trusted tool for students seeking connection and accountability
+- Opportunity to scale as a plug-in or integration for campus systems
+
+---
+
+## 🛠️ Tech Stack (suggested)
+> _To be determined during development planning phase_  
+- **Frontend:** React / Vue / Svelte  
+- **Backend:** Node.js / Django / Flask  
+- **Database:** PostgreSQL / MongoDB  
+- **Auth:** Firebase / OAuth 2.0  
+- **Hosting:** Vercel / Heroku / AWS / Railway
+
+---
+
+## 📌 Status
+> _Project is currently in planning and design phase. Contributions and feedback welcome!_
 
