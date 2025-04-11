@@ -48,6 +48,7 @@ This project aims to develop a comprehensive web application that facilitates me
      - Location preferences (地点)
      - Study methodology preferences (学习方式)
      - Personality compatibility (性格匹配)
+     - Academic Needs 
    - Weighted matching system prioritizing factors most important to each user
    - Adjustable search parameters for different needs
    
@@ -77,41 +78,26 @@ This project aims to develop a comprehensive web application that facilitates me
    - Academic meetups and events
    - Virtual study rooms
 
-## Development Timeline
+###  Development Timeline (April - June 2025)
 
-### Phase 1: Foundation (April 2025)
-- Requirements gathering and analysis
-- UX/UI design and prototyping
-- Database schema design
-- Core user authentication system
+**April 2025**
 
-### Phase 2: Core Development (May 2025)
-- User profile system implementation
-- Matching algorithm development
-- Frontend dashboard creation
-- Basic session planning features
+Week 1: Project kickoff and requirements gathering
+Week 2: UX wireframing and database planning
+Week 3: UI design and database schema finalization
+Week 4: Development environment setup and authentication system
 
-### Phase 3: Refinement and Testing (June 2025)
-- Integration testing
-- User acceptance testing
-- Performance optimization
-- Security auditing
-- Bug fixes and refinements
+**May 2025**
 
-### Phase 4: Deployment (End of June 2025)
-- Production deployment
-- User documentation
-- Maintenance plan establishment
-- Analytics implementation
+Week 1: User authentication and profile system
+Week 2: Matching algorithm development begins
+Week 3: Dashboard implementation and API development
+Week 4: Complete matching algorithm and initial testing
 
-## Technical Stack
+**June 2025**
 
-- **Frontend**: React.js, TailwindCSS
-- **Backend**: Node.js, Express
-- **Database**: MongoDB
-- **Authentication**: JWT, OAuth
-- **Deployment**: AWS/Heroku
-- **Version Control**: Git/GitHub
+Week 1: Session planning features and integration testing
+Week 2: Production deployment and project closeout
 
 ## Privacy and Security Considerations
 
