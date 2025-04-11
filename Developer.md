@@ -122,19 +122,5 @@ This project aims to develop a comprehensive web application that facilitates me
 - Opt-in privacy controls for user information
 
 ## Team Contact Information
-
-### Project Lead
-- **Name**: Suzy Chen
-- **Email**: suzy.chen@example.com
-- **GitHub**: @suzychendev
-
-### Development Team
-- **Frontend Developer**: Alex Johnson
-- **Backend Developer**: Maria Garcia
-- **UX/UI Designer**: Jamal Washington
-- **QA Engineer**: Priya Patel
-
-### Project Management
-- **Project Manager**: Carlos Rodriguez
-- **Email**: team@studygroupmatch.com
-- **Weekly Meeting**: Fridays at 2:00 PM EST 
+Client：Shiyu - yushi318@uw.edu
+Developer Kelly - Peng906@uw.edu
