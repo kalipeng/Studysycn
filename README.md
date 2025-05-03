@@ -1,4 +1,4 @@
-# Study Group Matching Web App – Project Proposal
+# StudySync Matching Web App – Project Proposal
 
 ## 1. Project Objectives
 
